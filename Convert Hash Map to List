@@ -5,11 +5,11 @@ public class MapList {
     public static void main(String[] args) {
 
         Map<Integer, String> map = new HashMap<>();
-        map.put(1, "a");
-        map.put(2, "b");
-        map.put(3, "c");
-        map.put(4, "d");
-        map.put(5, "e");
+        map.put(1, "u");
+        map.put(2, "v");
+        map.put(3, "w");
+        map.put(4, "x");
+        map.put(5, "y");
 
         List<Integer> keyList = new ArrayList(map.keySet());
         List<String> valueList = new ArrayList(map.values());
