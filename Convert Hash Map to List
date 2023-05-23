@@ -5,7 +5,7 @@ public class MapList {
     public static void main(String[] args) {
 
         Map<Integer, String> map = new HashMap<>();
-        map.put(1, "u");
+        map.put(1, "U");
         map.put(2, "v");
         map.put(3, "w");
         map.put(4, "x");
